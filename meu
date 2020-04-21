@@ -12,4 +12,10 @@ segunda linha após a mesma tag
 INÍCIO DA BRANCH QUE VAMOS CAUSAR CONFLITO
 
 		COMIT 1 DA BRANCH A
+<<<<<<< HEAD
+=======
+estado inicial da branch
+
+codigo sem sentido e algo pra depois
+>>>>>>> 7ea83cc0be7d1822144652f03e686d2696bc4925
 
